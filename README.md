@@ -4,6 +4,11 @@ Ini adalah back-end untuk aplikasi manajemen kontak yang menggunakan Node.js dan
 
 ---
 
+**nanti jalankan Back End nya pake perintah berikut, karena kesalahan di awal ketika buat folder nya disamakan seperti buat Front End, jadi gunakan perintah berikut untuk menjalankan Back End nya:**
+   ```bash
+   node src/server.js
+   ```
+
 ## Prasyarat
 
 1. **Node.js** (versi 14 atau lebih baru)
@@ -43,7 +48,7 @@ Ini adalah back-end untuk aplikasi manajemen kontak yang menggunakan Node.js dan
 
 1. **Jalankan server:**
    ```bash
-   npm start
+   node src/server.js
    ```
 
 2. **Server akan berjalan di:**
